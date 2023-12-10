@@ -1,5 +1,6 @@
 # alexfrisor or barber shop
 https://join.timma.no/pricing
+https://bedrift-hjemmeside.no/
 # Egen hjemmeside, ta vare på din
 200 kr /mnd.
 
